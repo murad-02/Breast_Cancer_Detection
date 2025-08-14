@@ -1,6 +1,6 @@
 # Breast Cancer Detection
 
-This project focuses on the detection of breast cancer using various machine learning algorithms. The dataset used is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
+This project focuses on the detection of breast cancer using various machine learning algorithms. The dataset used is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/utkarshx27/breast-cancer-wisconsin-diagnostic-dataset).
 
 ## Features
 
